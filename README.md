@@ -1,5 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/YoungPunk21/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/YoungPunk21/frontend-project-44/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/0a172e4c39b7224b20ae/maintainability)](https://codeclimate.com/github/YoungPunk21/frontend-project-44/maintainability)
 # Installation
 git clone https://github.com/YoungPunk21/frontend-project-44.git
 make install 
